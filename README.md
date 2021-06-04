@@ -15,5 +15,5 @@
 Marios325346/Marios325346 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
--  Projects I helped on :
--  John's Adventure Chapter 1 https://gamejolt.com/games/johns_adventure/556539
+-  Commisions :
+-  John's Adventure https://gamejolt.com/games/johns_adventure/556539
