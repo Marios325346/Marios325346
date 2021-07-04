@@ -1,14 +1,13 @@
 - 👋 Hi, I’m @Marios325346
-- 👀 I’m interested in Web/Software developing
-- 🌱 I’m currently learning Frontend Developing and Python (Flask)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <ul>
   <ul: float:left; >- 🧠 Experience
-  <li>1 Year Pygame Game Developing</li>
+  <li>Python (2019-2021)</li>
+      Modules
+      <ul>
+       <li>Modules: Pygame (2020-2021)</li>
+      </ul>
+
   <li>1 Year HTML5/CSS3</li>
-  <li>1 Month Flask</li>
   </ul>
 </ui>
 <!---
