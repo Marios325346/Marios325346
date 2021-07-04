@@ -1,11 +1,11 @@
 👋 Hi, I’m @Marios325346
 <ul>
-    <li>Certs: 👨‍🎓</li>
+    Certs: 👨‍🎓
     <ul>
       <li>Vocational Highschool Diploma (2021)</li>
       <li>Degree in Computer Science(Software & Networking) </li>
     </ul>
-    <li>Skills: 👨‍🔬</li>
+    Skills: 👨‍🔬
     <li>Python (2019-2021)</li>
       Modules
       <ul>
