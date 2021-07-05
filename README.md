@@ -17,7 +17,6 @@ Computer Repairing & Restoration(2015-2021) </br>
 Experience in Linux Systems 🐧 (2021) </br> </br>
 Programming Languages: </br>
 <li>Python (2019-2021)</li>
-  Modules
   <ul>
    <li>Modules: Pygame (2020-2021)</li>
   </ul>
