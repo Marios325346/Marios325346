@@ -15,8 +15,7 @@ About me:
     Skills: 👨‍🔬
     Computer Repairing & Restoration(2015-2021) </br>
     Experience in Linux Systems 🐧 (2021) </br>
-    
-    Programming Languages:
+    Programming Languages: </br>
     <li>Python (2019-2021)</li>
       Modules
       <ul>
