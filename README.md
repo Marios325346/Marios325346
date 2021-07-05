@@ -12,7 +12,7 @@ Certs: 👨‍🎓
   <li>Proficiency in English (MSU-CELP C2, 2020)</li>
 </ul>
 </br>
-Skills: 👨‍🔬
+Skills: 👨‍🔬 </br>
 Computer Repairing & Restoration(2015-2021) </br>
 Experience in Linux Systems 🐧 (2021) </br> </br>
 Programming Languages: </br>
