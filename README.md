@@ -4,7 +4,7 @@ About me:
 <li>   Open Minded   </li>
 <li>     Patient     </li>
 
-
+</br>
 Certs: 👨‍🎓
 <ul>
   <li>Vocational Highschool Diploma (2021)</li>
