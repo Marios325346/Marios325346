@@ -1,4 +1,4 @@
-👋 Hi, I’m @Marios325346
+Hi, I’m @Marios325346 👋 
 About me:
 <li> Detail Oriented </li>
 <li>   Open Minded   </li>
