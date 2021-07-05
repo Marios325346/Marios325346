@@ -20,6 +20,5 @@ Programming Languages: </br>
   <ul>
    <li>Modules: Pygame (2020-2021)</li>
   </ul>
-  </br>
  <li>1 Year HTML5/CSS3</li>
 
