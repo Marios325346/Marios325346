@@ -8,12 +8,12 @@ About me:
 Certs: 👨‍🎓
 <ul>
   <li>Vocational Highschool Diploma (2021)</li>
-  <li>Degree in Computer Science(Software & Networking, 2021) </li>
+  <li>Degree in Computer Science (Software & Networking, 2021) </li>
   <li>Proficiency in English (MSU-CELP C2, 2020)</li>
 </ul>
 </br>
 Skills: 👨‍🔬 </br>
-Computer Repairing & Restoration(2015-2021) </br>
+Computer Repairing & Restoration (2015-2021) </br>
 Experience in Linux Systems 🐧 (2021) </br> </br>
 Programming Languages: </br>
 <li>Python (2019-2021)</li>
