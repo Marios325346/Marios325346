@@ -8,7 +8,7 @@ About me:
 Certs: 👨‍🎓
 <ul>
   <li>Vocational Highschool Diploma (2021)</li>
-  <li>Degree in Computer Science (Software & Networking, 2021) </li>
+  <li>Vocational Degree in Computer Science (Software & Networking, 2021) </li>
   <li>Proficiency in English (MSU-CELP C2, 2020)</li>
 </ul>
 </br>
